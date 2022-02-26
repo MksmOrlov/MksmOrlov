@@ -4,11 +4,9 @@ I'm Maksim, backend developer from <b>Minsk, Belarus</b>.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
+### Languages/Technologies I'm working with:
 
-<br/>
-
-### Languages/Tools I'm working with:
-
+<code><a href="http://ims.ostis.net/"><img alt="OSTIS" title="OSTIS" src="http://conf.ostis.net/wp-content/uploads/2021/05/cropped-Group-1.png" height="42"></a></code>
 <code><a href="https://isocpp.org/"><img alt="Cpp" title="C++" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" height="42"></a></code>
 <code><a href="https://isocpp.org/"><img alt="Java" title="Java" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" height="42"></a></code>
 <code><a href="https://isocpp.org/"><img alt="Python" title="Python" src="https://symbols.getvecta.com/stencil_92/73_python-icon.3d49e95599.svg" height="42"></a></code>
