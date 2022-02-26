@@ -5,6 +5,24 @@ I'm Maksim, backend developer from <b>Minsk, Belarus</b>.
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 
+<br/>
+
+### Languages/Tools I'm working with:
+
+<code><a href="https://isocpp.org/"><img alt="Cpp" title="C++" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" height="42"></a></code>
+<code><a href="https://isocpp.org/"><img alt="Java" title="Java" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" height="42"></a></code>
+<code><a href="https://isocpp.org/"><img alt="Python" title="Python" src="https://symbols.getvecta.com/stencil_92/73_python-icon.3d49e95599.svg" height="42"></a></code>
+<code><a href="https://wit.ai/"><img alt="Wit-ai" title="Wit.ai" src="https://avatars.githubusercontent.com/u/4723433?s=280&v=4" height="42"></a></code>
+<code><a href="https://github.com/"><img alt="GitHub" title="GitHub" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" height="42"></a></code>
+<code><a href="https://www.latex-project.org/"><img alt="LaTex" title="LaTex" src="https://i0.wp.com/levashove.ru/wp-content/uploads/2019/05/latex-logo.png?fit=800%2C400&ssl=1" height="42"></a></code>
+<code><a href="https://www.gnu.org/software/bash"><img alt="Bash" title="Bash" src="https://github.com/cheesits456/cheesits456/raw/master/icons/bash.png" height="42"></a></code>
+<code><a href="https://linuxmint.com/"><img alt="Linux mint" title="Linux mint" src="https://winaero.com/blog/wp-content/uploads/2019/12/Linux-Mint-Linuxmint-Logo-Icon-New.png" height="42"></a></code>
+
+
+- :zap: I’m interested in OSTIS Technology
+- :mortar_board: I'm a third course BSUIR student
+- :trophy: My titles: 
+
 <h3>Where to find me</h3>
 
 <a href="mailto:orlovmassimo@gmail.com">
@@ -26,20 +44,6 @@ I'm Maksim, backend developer from <b>Minsk, Belarus</b>.
 <a href="https://www.instagram.com/orel.m_k/">
   <img align="left" alt="Maksim's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
-
-<br/>
-
-**languages and tools:**  
-  
-<code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
-- :zap: I’m interested in OSTIS Technology
-- :mortar_board: I'm a third course BSUIR student
-- :trophy: My titles: 
-
 
 <!--
 **MksmOrlov/MksmOrlov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
