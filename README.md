@@ -2,14 +2,10 @@
 
 I'm Maksim, backend developer from <b>Minsk, Belarus</b>.
 
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
+
 <h3>Where to find me</h3>
-<p>
-<a href="https://twitter.com/chumax8" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
-
-<a href="https://www.linkedin.com/in/maksim-orlov-0b4386204/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
-
-<h3> How to reach me </h1>
 
 <a href="mailto:orlovmassimo@gmail.com">
   <img align="left" alt="Maksim's Gmail" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" />
