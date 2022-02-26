@@ -65,8 +65,31 @@ Title links
 Links to inspire:
 https://github.com/abhisheknaiidu/awesome-github-profile-readme/blob/master/README.md#github-actions-
 
-https://github.com/thmsgbrt/thmsgbrt
 https://github.com/abhisheknaiidu/abhisheknaiidu
 
+https://github.com/adamalston/adamalston/blob/master/README.md
+
+ ## Who am I?
+ ```python
+ class WhoAmI:
+ 	user = 'Haany Ali'
+		current_edu = "St. Mary's Group of Institutions"
+		hobbies = [
+				'Drawing',
+				'Watching Anime',
+				'Reading Sci-Fi Novels'
+				'Being up all Night chasing that ONE BUG...'
+			]
+	
+	def getCity():
+		return Hyderabad_India()
+	
+	def Ambitions():
+		LearnJapanese()
+		CreateSkyNet()
+		FinishMyNovel()
+		# Assume 10 more awesome ambitions here  ;)
+	
+ ```
 
 -->
