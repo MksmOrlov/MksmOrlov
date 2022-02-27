@@ -2,7 +2,7 @@
 
 I'm Maksim, backend developer from <b>Minsk, Belarus</b> :mortar_board: Third course BSUIR student
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="395" height="247" />
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="390" height="240" />
 
 ### Technologies/Languages I'm working with:
 
