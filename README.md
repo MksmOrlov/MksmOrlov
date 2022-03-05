@@ -1,6 +1,8 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you</h1>
 
-I'm Maksim, backend developer from <b>Minsk, Belarus</b> :mortar_board: Third course BSUIR student
+I'm Maksim, backend developer from <b>Minsk, Belarus</b> 
+
+:mortar_board: Third course BSUIR student
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="375" height="230" />
 
