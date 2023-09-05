@@ -26,5 +26,5 @@ I'm Maksim, <b>knowledge processing engineer</b> from Minsk, Belarus
 </a>
 
 <a href="https://www.linkedin.com/in/maksim-orlov-0b4386204/">
-  <img align="left" alt="Maksim's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Maksim's LinkedIn" width="22px" src="https://pbs.twimg.com/profile_images/1661161645857710081/6WtDIesg_400x400.png" />
 </a>
