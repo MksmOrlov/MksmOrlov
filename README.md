@@ -2,7 +2,7 @@
 
 I'm Maksim, <b>knowledge processing engineer</b> from Minsk, Belarus 
 
-:mortar_board: Fourth course BSUIR student
+:mortar_board: BSUIR graduate
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="375" height="230" />
 
