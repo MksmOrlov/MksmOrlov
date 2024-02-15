@@ -9,8 +9,6 @@ I'm Maksim, <b>knowledge processing engineer</b> from Minsk, Belarus
 ### Technologies/Languages I'm working with:
 
 <code><a href="http://ims.ostis.net/"><img alt="OSTIS" title="OSTIS" src="http://conf.ostis.net/wp-content/uploads/2021/05/cropped-Group-1.png" height="42"></a></code>
-<code><a href="https://www.latex-project.org/"><img alt="LaTex" title="LaTex" src="https://i0.wp.com/levashove.ru/wp-content/uploads/2019/05/latex-logo.png?fit=800%2C400&ssl=1" height="42"></a></code>
-<code><a href="https://wit.ai/"><img alt="Wit-ai" title="Wit.ai" src="https://avatars.githubusercontent.com/u/4723433?s=280&v=4" height="42"></a></code>
 <code><a href="https://github.com/"><img alt="GitHub" title="GitHub" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" height="42"></a></code>
 <code><a href="https://www.gnu.org/software/bash"><img alt="Bash" title="Bash" src="https://github.com/cheesits456/cheesits456/raw/master/icons/bash.png" height="42"></a></code>
 <code><a href="https://linuxmint.com/"><img alt="Linux mint" title="Linux mint" src="https://winaero.com/blog/wp-content/uploads/2019/12/Linux-Mint-Linuxmint-Logo-Icon-New.png" height="42"></a></code>
